@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Wear</string>
+	<string name="status">waiting...</string>
+	<string name="send">確認</string>
+</resources>
